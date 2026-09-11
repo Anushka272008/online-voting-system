@@ -1,0 +1,4 @@
+database/voting.db
+__pycache__/
+.venv/
+venv/
